@@ -13,5 +13,8 @@ The new system expands on this original idea, incorporating a variety of new fea
 	Realistic, customizable actuators at each joint of the walker
 	
 	
+**[How to use the system]**
 	
 	
+[This will be expanded later]
+
